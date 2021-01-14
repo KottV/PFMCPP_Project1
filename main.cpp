@@ -124,13 +124,13 @@ busDriver.driveBus();
 //  action 3:    bus driver sleeps
 busDriver.sleep();
 //  10)
-//  Noun:        producer
-//  action 1:    producer sleeps
-producer.sleep();
-//  action 2:    producer drinks
-producer.drink();
-//  action 3:    producer eats
-producer.eat();
+//  Noun:        spotlight operator
+//  action 1:    spotlight operator aims the spot
+spotlightOperator.aimSpot();
+//  action 2:    spotlight operator turns on the strobs
+spotlightOperator.turnOnStrob();
+//  action 3:    spotlight operator wants go outside
+spotlightOperator.wantGoOutside();
 
 
 #endif
