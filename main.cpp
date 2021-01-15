@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        lead singer
+//  action 1:    lead singer sings
+leadSinger.sing();
+//  action 2:    lead singer dances
+leadSinger.dance();
+//  action 3:    lead singer smiles
+leadSinger.smile();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        lead guitarist
+//  action 1:    lead guitarist plays guitar
+leadGuitarist.playGuitar();
+//  action 2:    lead guitarist sings
+leadGuitarist.sing();
+//  action 3:    lead guitarist tunes instrument
+leadGuitarist.tuneInsrument();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        drummer
+//  action 1:    drummer plays drums
+drummer.playDrums();
+//  action 2:    drummer screams
+drummer.scream();
+//  action 3:    drummer throws sticks
+drummer.throwSticks();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        bassist
+//  action 1:    bassist plays bass
+bassist.playBass();
+//  action 2:    bassist sings
+bassist.sing();
+//  action 3:    bassist smiles
+bassist.dance();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        rhytm guitarist
+//  action 1:    rhytm guitarist plays guitar
+rythmGuitarist.playGuitar();
+//  action 2:    rhytm guitarist smiles
+rythmGuitarist.smile();
+//  action 3:    rhytm guitarist tunes instrument
+rythmGuitarist.tuneInsruments();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        pianist
+//  action 1:    pianist plays keys
+pianist.playKeys();
+//  action 2:    pianist sings
+pianist.sing();
+//  action 3:    pianist claps
+pianist.clap();
+//  7)       
+//  Noun:        stage worker
+//  action 1:    stage worker loads
+stageWorker.load();
+//  action 2:    stage worker connects
+stageWorker.connect();
+//  action 3:    stage worker tunes instrument
+stageWorker.tuneInsruments();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        mix engineer
+//  action 1:    mix engineer routes
+mixEngineer.route();
+//  action 2:    mix engineer controls
+mixEngineer.control();
+//  action 3:    mix engineer yawns
+mixEngineer.yawn();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        bus driver
+//  action 1:    bus driver loads
+busDriver.load();
+//  action 2:    bus driver drives bus
+busDriver.driveBus();
+//  action 3:    bus driver sleeps
+busDriver.sleep();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:        spotlight operator
+//  action 1:    spotlight operator aims the spot
+spotlightOperator.aimSpot();
+//  action 2:    spotlight operator turns on the strobs
+spotlightOperator.turnOnStrob();
+//  action 3:    spotlight operator wants go outside
+spotlightOperator.wantGoOutside();
 
 
 #endif
